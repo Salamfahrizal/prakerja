@@ -3,3 +3,4 @@ progress prakerja
 -mengenal bebagai macam tag html
 -mengenal cara penggunaan css
 -mengenal git hub 
+-mengenal git 
